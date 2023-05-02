@@ -1,0 +1,27 @@
+﻿Identifier: MEX-INEGI.ESD3.04-ENVI-2020
+
+Title: Encuesta Nacional de Vivienda (ENVI)2020. Datos oportunos
+
+Description: El Instituto Nacional de Estadística y Geografía (INEGI) levanta la Encuesta para Nacional de Vivienda (ENVI)2020, con el objetivo de producir información estadística sobre las características de la vivienda en México que permita generar un panorama amplio sobre la situación de la vivienda en el país, necesidades y demanda de la población al respecto.
+
+Modified: 2021-08-23
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: 
+
+Keyword: "hogar principal", "hogar secundario", "tenencia", "financiamiento", "crédito hipotecario", "autoconstrucción de vivienda",  "satisfacción de la vivienda".
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2020-10-26-2020-12-18
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: No determinada
+
+Distribution: https://www.inegi.org.mx/programas/envi/2020/
